@@ -1,10 +1,10 @@
 # CAPS
- Exercises in Computer-Aided Problem Solving, Tohoku University Spring 2020
+Exercises in Computer-Aided Problem Solving, Tohoku University Spring 2020
  
 ## Naming convention
 Files names "CAPS_number_B9TB1710.m" include source codes in Octave for assignments. Explanation of each code can be found in a pdf file with the same name.
  
-## Topics covered in assignments:
+## Topics covered in assignments
  1. Introduction (no files) 
  2. Fundamentals of Octave
  3. Matrices and linear algebra I
