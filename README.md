@@ -12,42 +12,41 @@ Files names "CAPS_number_B9TB1710.m" include source codes in Octave for assignme
  5. Least square method and line fitting
  6. Numerical integration and ordinary
 differential equation
-  * Numerical integration (definite integral)
-  * Double integral
-  * Initial value problem of ODEs
+   * Numerical integration (definite integral)
+   * Double integral
+   * Initial value problem of ODEs
  7. Signal processing
-  * Using audio data
-  * Fourier transform
-  * Noise reduction
+   * Using audio data
+   * Fourier transform
+   * Noise reduction
  8. Probability theory: basics
-  * Random numbers
-  * Conditional probability
-  * Joint probability
-  * Bayes’ theorem
-  * Marginal probability
-  * Posterior probability and prior probability
-  * Logical indexing of matrices
+   * Random numbers
+   * Conditional probability
+   * Joint probability
+   * Bayes’ theorem
+   * Marginal probability
+   * Posterior probability and prior probability
+   * Logical indexing of matrices
 9. Statistics I
-* Mean and variance
-* Expected value
-* Models of probability events
+   * Mean and variance
+   * Expected value
+   * Models of probability events
 10. Matrices and linear algebra II
-* Eigenvectors and eigenvalues
-* Singular value decomposition
-* Rank of a matrix
-* Low-rank approximation of matrices
+   * Eigenvectors and eigenvalues
+   * Singular value decomposition
+   * Rank of a matrix
+   * Low-rank approximation of matrices
 11. Statistics I
-* Covariance
-* Correlation
-* Covariance matrix/correlation matrix
-* Eigenvalues/vectors of covariance matrix
+  * Covariance
+  * Correlation
+  * Eigenvalues/vectors of covariance matrix
 12. Machine learning I
-* Regression
-* Overfitting
-* Classification
-* Example: Handwritten digit recognition
-* Support vector machines (SVMs)
+  * Regression
+  * Overfitting
+  * Classification
+  * Example: Handwritten digit recognition
+  * Support vector machines (SVMs)
 13. Machine learning II
-* Neural networks (deep learning)
-* Standardization of data
-* Training neural networks
+  * Neural networks (deep learning)
+  * Standardization of data
+  * Training neural networks
