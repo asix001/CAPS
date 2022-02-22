@@ -37,16 +37,16 @@ differential equation
     * Rank of a matrix
     * Low-rank approximation of matrices
 11. Statistics I
-   * Covariance
-   * Correlation
-   * Eigenvalues/vectors of covariance matrix
+    * Covariance
+    * Correlation
+    * Eigenvalues/vectors of covariance matrix
 12. Machine learning I
-   * Regression
-   * Overfitting
-   * Classification
-   * Example: Handwritten digit recognition
-   * Support vector machines (SVMs)
+    * Regression
+    * Overfitting
+    * Classification
+    * Example: Handwritten digit recognition
+    * Support vector machines (SVMs)
 13. Machine learning II
-   * Neural networks (deep learning)
-   * Standardization of data
-   * Training neural networks
+    * Neural networks (deep learning)
+    * Standardization of data
+    * Training neural networks
